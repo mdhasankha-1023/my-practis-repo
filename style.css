@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: green;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+}
